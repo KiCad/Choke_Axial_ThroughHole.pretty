@@ -1,10 +1,10 @@
 (module Choke_Horizontal_RM15mm (layer F.Cu) (tedit 542A89D5)
   (descr "Choke, Axial, 15mm")
   (tags "Choke, Axial, 15mm")
-  (fp_text reference Choke_Horizontal_RM15mm (at 0 -3.50012) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -3.50012) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 3.81) (layer F.SilkS) hide
+  (fp_text value Choke_Horizontal_RM15mm (at 0 3.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 5.19938 0) (end 6.21538 0) (layer F.SilkS) (width 0.15))
